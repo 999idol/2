@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "axios": "^0.27.2",
-    "fake-useragent": "^1.0.1",
-    "https-proxy-agent": "^5.0.1"
-  }
-}
